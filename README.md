@@ -139,9 +139,3 @@ Kurulum sonrası dosyalar:
   ```
   https://sertifika.meb.gov.tr/MEB_SERTIFIKASI.cer
   ```
-
----
-
-## Lisans
-
-Bu proje serbestçe kullanılabilir ve dağıtılabilir.
